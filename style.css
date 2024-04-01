@@ -1,0 +1,24 @@
+*{padding: 0 ; margin: 0 ; border-box; box-sizing; }
+body{
+    overflow-x: hidden;
+}
+h1 {
+    font-family: "Dancing Script", cursive;
+}
+
+
+.btn{
+    
+    background-color: rgb(235, 142, 54);
+    transition: .5s ease-in;
+  
+
+}
+
+.btn:hover{
+    background-color: rgb(213, 103, 53);
+    
+}
+.menu{
+    justify-content: right;
+}
